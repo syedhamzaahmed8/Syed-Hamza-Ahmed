@@ -1,4 +1,4 @@
-👋 Hey there! I'm Syed Hamza Ahmed
+#👋 Hey there! I'm Syed Hamza Ahmed
 I'm a data-driven problem solver with a strong foundation in SQL, Python, and cloud computing (AWS & Azure). With hands-on experience in data analysis, database management, ETL pipelines, and data visualization tools like Power BI and Tableau, I thrive on turning raw data into meaningful insights.
 
 Currently pursuing my Bachelor's in Computer Science at FAST NUCES, I have 3+ years of practical experience through internships and independent projects—ranging from developing analytical dashboards to deploying solutions on the cloud.
